@@ -4,7 +4,7 @@
   "description": "tutorial site for sass",
   "main": "index.js",
   "scripts": {
-    "start": "npm run"
+    "start": "npm install"
   },
   "repository": {
     "type": "git",
