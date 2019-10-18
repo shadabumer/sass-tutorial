@@ -2,7 +2,7 @@
   "name": "sass-theme",
   "version": "1.0.0",
   "description": "tutorial site for sass",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "npm install"
   },
